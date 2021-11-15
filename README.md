@@ -1,6 +1,6 @@
 # CRISPR Design Pipeline
 
-This pipeline takes a list of HGNC names in a text file and outputs a table of the top `n` most potent guides as determined by the [Azimuth Algorithm][https://github.com/MicrosoftResearch/Azimuth/tree/v2.0]
+This pipeline takes a list of HGNC names in a text file and outputs a table of the top `n` most potent guides as determined by the [Azimuth Algorithm](https://github.com/MicrosoftResearch/Azimuth/tree/v2.0)
 
 All intermediate files generated from this pipeline have the same prefix.  For example, if the name of a file is `crispr_library_genes.txt`, then all intermediate files have the prefix `crispr_library_genes` prepended.  Intermediate files are explained in the pipeline steps below.
 
