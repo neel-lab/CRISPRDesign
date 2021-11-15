@@ -1,4 +1,4 @@
-#CRISPR Design Pipeline
+# CRISPR Design Pipeline
 
 This pipeline takes a list of HGNC names in a text file and outputs a table of the top `n` most potent guides as determined by the [Azimuth Algorithm][https://github.com/MicrosoftResearch/Azimuth/tree/v2.0]
 
